@@ -13,7 +13,8 @@ Display Devicons (Software and Web Developer Icons) on your WordPress site.
 
 == Description ==
 
-Devicons is a plugin that allows you to easily display Devicons (Software and Web Developer icons) on your WordPress site. Show off your skills by including them in a graphical way. 
+Devicons is a plugin that allows you to easily display Devicons (Software and Web Developer icons) on your WordPress site. Show off your skills by including them in a graphical way. This plugin is based on the [Devicon project by Julien Monty](http://konpa.github.io/devicon/).
+ 
 
 
 == Installation ==
@@ -77,8 +78,7 @@ When requesting multiple devicons with the colour #cc0000:
 == Screenshots ==
 
 1. A screenshot showing a full list of rendered, coloured devicons without titles.
-2. A screenshot showing one devicon inserted in the title tag (inline).
-1. A screenshot showing a full list of title devicons with a specific colour (dark grey).
+2. A screenshot showing devicons with titles, of a specific colour.
 
 == Changelog ==
 
